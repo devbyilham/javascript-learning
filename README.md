@@ -5,8 +5,8 @@ My learning journey from JavaScript fundamentals to practical projects.
 ## Learning Progress
 
 - [x] Console Output
-- [ ] Variables
-- [ ] Data Types
+- [x] Variables
+- [x] Data Types
 - [ ] Operators
 - [ ] Conditional Statements
 - [ ] Loops
