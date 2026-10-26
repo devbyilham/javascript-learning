@@ -1,4 +1,5 @@
-console.log("Muhammad Ilham");
-console.log(22);
-console.log(125 + 275);
-console.log("Saya sedang belajar fundamental JavaScript");
+const nama = "Ilham";
+console.log(nama);
+
+nama = "Ilham";
+console.log(nama);
