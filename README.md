@@ -7,8 +7,8 @@ My learning journey from JavaScript fundamentals to practical projects.
 - [x] Console Output
 - [x] Variables
 - [x] Data Types
-- [ ] Operators
-- [ ] Conditional Statements
+- [x] Operators
+- [x] Conditional Statements
 - [ ] Loops
 - [ ] Functions
 - [ ] Arrays
