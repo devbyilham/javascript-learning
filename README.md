@@ -9,7 +9,7 @@ My learning journey from JavaScript fundamentals to practical projects.
 - [x] Data Types
 - [x] Operators
 - [x] Conditional Statements
-- [ ] Loops
+- [x] Loops
 - [ ] Functions
 - [ ] Arrays
 - [ ] Objects
